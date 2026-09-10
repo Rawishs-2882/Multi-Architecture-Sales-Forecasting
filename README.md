@@ -29,7 +29,7 @@ RMSE and MAE are reported for every model, along with residual analysis and an e
 ## Tech Stack
 
 <div align="center">
-<img src="https://tech-stack.wontory.dev/api/orbit?text=Forecasting&slugs=tensorflow,python,pandas,numpy" alt="tech stack orbit" width="380" />
+<img src="https://tech-orbit.wontory.dev/api?title=Forecasting&tech=tensorflow,python,pandas,numpy&size=420&duration=20" alt="tech stack orbit" width="420" />
 </div>
 
 TensorFlow and Keras for model definition and training, Pandas and NumPy for data wrangling, and Scikit-learn for scaling and evaluation utilities.
